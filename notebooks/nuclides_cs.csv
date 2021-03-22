@@ -1,0 +1,18 @@
+nuclide,atom mass (u),density (g/cm3),utility,thermal_sigma_s (barn),thermal_sigma_c (barn),thermal_sigma_f (barn),fast_sigma_s (barn),fast_sigma_c (barn),fast_sigma_f (barn)
+H-1,1.007825,0.000082,moderator,20,0.2,0,4,0.00004,0
+H-2,2.014102,0.000082,moderator,4,0.0003,0,3,0.000007,0
+C-12,12,2.2,moderator,5,0.002,0,2,0.00001,0
+Au-197,196.966552,19.3,structural & others,8.2,98.7,0,4,0.08,0
+Zr-90,89.904704,6.52,structural & others,5,0.006,0,5,0.006,0
+Fe-56,55.934942,7.87,structural & others,10,2,0,20,0.003,0
+Cr-52,51.940512,7.15,structural & others,3,0.5,0,3,0.002,0
+Co-59,58.9332,8.86,structural & others,6,37.2,0,4,0.006,0
+Ni-58,57.935348,8.9,structural & others,20,3,0,3,0.008,0
+O-16,15.994915,0.001308,structural & others,4,0.0001,0,3,0.00000003,0
+B-10,10.012937,2.34,absorber,2,200,0,2,0.4,0
+Cd-113,112.904401,8.69,absorber,100,30000,0,4,0.05,0
+Xe-135,134.9063075,0.005366,absorber,400000,2000000,0,5,0.0008,0
+In-115,114.903878,7.31,absorber,2,100,0,4,0.02,0
+U-235,235.043923,19.1,fuel,10,99,583,4,0.09,1
+U-238,238.050783,19.1,fuel,9,2,0.00002,5,0.07,0.3
+Pu-239,239.0521634,19.7,fuel,8,269,748,5,0.05,2
